@@ -1,0 +1,2 @@
+osm_id,feat_type,key,value,commentary
+871948401,way,not appliable,not appliable,"Crossings are generally connected to a sidewalk, but some map them lines separately, so <b>watch out for false positives</b>. In general, crossings are designed to be part of a network, they should be connected to other features"

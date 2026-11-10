@@ -1,0 +1,45 @@
+{
+  "node_name": "Sulbiate, Italy",
+  "generated_at": "2026-11-10T20:27:54Z",
+  "bbox": [
+    45.621122,
+    9.3979013,
+    45.6536688,
+    9.4519522
+  ],
+  "keywords_used": [
+    "oswm",
+    "OpenSidewalkMap",
+    "accessibility",
+    "pedestrian"
+  ],
+  "services_queried": [
+    "Tasking Manager",
+    "Pic4Review",
+    "MapRoulette"
+  ],
+  "service_status": {
+    "Tasking Manager": {
+      "status": "ok",
+      "instances": {
+        "https://tasks.hotosm.org/": "ok",
+        "https://tasks.teachosm.org/": "ok",
+        "https://tasks.mapwith.ai/": "ok"
+      }
+    },
+    "Pic4Review": {
+      "status": "ok",
+      "instances": {
+        "https://pic4review.pavie.info/#/": "ok"
+      }
+    },
+    "MapRoulette": {
+      "status": "ok",
+      "instances": {
+        "https://maproulette.org/": "ok"
+      }
+    }
+  },
+  "total_projects_found": 0,
+  "projects": []
+}

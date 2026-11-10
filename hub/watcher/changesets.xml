@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>OSWM Watcher Changeset Activity - Sulbiate, Italy</title>
+    <link>https://opensidewalkmap.github.io/sulbiate/hub/watcher/index.html</link>
+    <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Sulbiate, Italy.</description>
+    <lastBuildDate>Tue, 10 Nov 2026 20:28:12 GMT</lastBuildDate>
+    <item>
+        <title>[Alert] High Deletion OSM Changeset 180970516 by unfoxo (2 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/180970516</link>
+        <description>&lt;p&gt;&lt;strong&gt;High Deletion Alert for OSM Changeset 180970516&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/unfoxo&quot;&gt;unfoxo&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Improvement in mezzago&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Deletions to OSWM features:&lt;/strong&gt; 2&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/180970516&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/180970516&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Apr 2026 21:41:38 GMT</pubDate>
+        <guid isPermaLink="false">deletion_alert_180970516</guid>
+    </item>
+</channel>
+</rss>

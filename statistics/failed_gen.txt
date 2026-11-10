@@ -1,0 +1,15 @@
+sidewalks_smoothness_x_surface
+sidewalks_surface
+sidewalks_smoothness
+sidewalks_tactile_paving
+sidewalks_width
+sidewalks_incline
+sidewalks_age
+sidewalks_n_revs
+kerbs_x_paving_x_wheelchair
+kerb_wheelchair_access
+kerbs_surface
+kerbs_age
+kerbs_n_revs
+all_data_lit
+all_data_traffic_calming

@@ -1,0 +1,161 @@
+{
+    "sidewalks": {
+        "crossing": [
+            "uncontrolled"
+        ],
+        "highway": [
+            "footway"
+        ],
+        "bicycle": [
+            "yes"
+        ],
+        "segregated": [
+            "no"
+        ],
+        "footway": [
+            "sidewalk"
+        ],
+        "covered": [
+            "yes"
+        ]
+    },
+    "crossings": {
+        "crossing": [
+            "uncontrolled",
+            "unmarked"
+        ],
+        "highway": [
+            "footway"
+        ],
+        "bicycle": [
+            "dismount",
+            "yes"
+        ],
+        "surface": [
+            "asphalt"
+        ],
+        "segregated": [
+            "no"
+        ],
+        "smoothness": [
+            "good"
+        ],
+        "footway": [
+            "crossing"
+        ]
+    },
+    "kerbs": {
+        "tactile_paving": [
+            "no"
+        ],
+        "barrier": [
+            "kerb"
+        ],
+        "kerb": [
+            "flush",
+            "raised",
+            "lowered"
+        ]
+    },
+    "other_footways": {
+        "highway": [
+            "track",
+            "cycleway",
+            "residential",
+            "path",
+            "footway",
+            "pedestrian",
+            "steps",
+            "construction"
+        ],
+        "wheelchair": [
+            "yes"
+        ],
+        "bicycle": [
+            "yes",
+            "designated",
+            "no"
+        ],
+        "barrier": [
+            "gate"
+        ],
+        "foot": [
+            "yes",
+            "designated"
+        ],
+        "motor_vehicle": [
+            "no",
+            "private"
+        ],
+        "horse": [
+            "no"
+        ],
+        "mtb:scale": [
+            "0",
+            "1"
+        ],
+        "name": [
+            "Strada Comunale della Cascina Cà",
+            "Via Alessandro Manzoni",
+            "Strada Consorziale dei Boschi",
+            "Via Ai Forni",
+            "Via Giovanni Pascoli",
+            "Piazza Beretta"
+        ],
+        "surface": [
+            "earth",
+            "concrete",
+            "dirt",
+            "compacted",
+            "unpaved",
+            "grass",
+            "ground",
+            "fine_gravel"
+        ],
+        "tracktype": [
+            "grade3",
+            "grade1",
+            "grade4",
+            "grade2",
+            "grade5"
+        ],
+        "trail_visibility": [
+            "intermediate"
+        ],
+        "name:etymology:wikidata": [
+            "Q1064",
+            "Q375998"
+        ],
+        "segregated": [
+            "no"
+        ],
+        "maxwidth": [
+            "2.5 m"
+        ],
+        "oneway": [
+            "yes"
+        ],
+        "short_name": [
+            "Via Manzoni"
+        ],
+        "smoothness": [
+            "horrible",
+            "good"
+        ],
+        "width": [
+            "2"
+        ],
+        "coverage": [
+            "yes"
+        ],
+        "covered": [
+            "yes"
+        ],
+        "area": [
+            "yes"
+        ],
+        "construction": [
+            "cycleway"
+        ]
+    }
+}

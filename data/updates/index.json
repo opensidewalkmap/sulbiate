@@ -1,0 +1,12 @@
+{
+    "folder": "data/updates",
+    "files": [
+        "acquisition.json",
+        "pipeline_decision.json",
+        "registry.json",
+        "watcher_decision.json"
+    ],
+    "subfolders": [
+        "versioning"
+    ]
+}

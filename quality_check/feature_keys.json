@@ -1,0 +1,49 @@
+{
+    "sidewalks": [
+        "crossing",
+        "highway",
+        "bicycle",
+        "segregated",
+        "footway",
+        "covered"
+    ],
+    "crossings": [
+        "crossing",
+        "highway",
+        "bicycle",
+        "surface",
+        "segregated",
+        "smoothness",
+        "footway"
+    ],
+    "kerbs": [
+        "tactile_paving",
+        "barrier",
+        "kerb"
+    ],
+    "other_footways": [
+        "highway",
+        "wheelchair",
+        "bicycle",
+        "barrier",
+        "foot",
+        "motor_vehicle",
+        "horse",
+        "mtb:scale",
+        "name",
+        "surface",
+        "tracktype",
+        "trail_visibility",
+        "name:etymology:wikidata",
+        "segregated",
+        "maxwidth",
+        "oneway",
+        "short_name",
+        "smoothness",
+        "width",
+        "coverage",
+        "covered",
+        "area",
+        "construction"
+    ]
+}

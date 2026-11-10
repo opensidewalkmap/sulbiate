@@ -1,0 +1,8 @@
+{
+    "folder": "statistics_specs/kerbs",
+    "files": [
+        "kerb_tactile_paving.json",
+        "kerb_types.json"
+    ],
+    "subfolders": []
+}
