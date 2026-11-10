@@ -1,11 +1,12 @@
 name: data_daily_updating
 
 on:
-  # Merging runtime repairs triggers a complete canary rebuild.
+  # Rebuild all products when the node configuration or build workflow changes.
   push:
     branches: [main]
     paths:
       - ".github/workflows/data_daily_updating.yml"
+      - "config.py"
   schedule:
     - cron: "30 7 * * *"
   workflow_dispatch:
@@ -22,7 +23,8 @@ permissions:
 
 concurrency:
   group: oswm-node-writer-${{ github.repository }}
-  cancel-in-progress: false
+  # A new configuration invalidates any build still using the previous one.
+  cancel-in-progress: ${{ github.event_name == 'push' }}
 
 jobs:
   data_daily_updating:

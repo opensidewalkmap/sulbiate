@@ -17,32 +17,36 @@
 # It can be also the name of a neighborhood if is such a big city or you just want a node for it
 # Sometimes being more specific can help, so if you for example want the city of Salvador (Brazil)
 # you should use "Salvador, Brazil", since just "Salvador" probably will return "El Salvador", the country
-CITY_NAME = "Curitiba"
+CITY_NAME = "Sulbiate, Italy"
 
 # simple name, spaces must be replaced by underscores, no special characters, all in lowercase
-CITY_SHORTNAME = "curitiba"
+CITY_SHORTNAME = "sulbiate"
 
 # username, for adresses
-USERNAME = "kauevestena"
+USERNAME = "opensidewalkmap"
 
 # repository name, for many weblink references:
-REPO_NAME = "opensidewalkmap_beta"
+REPO_NAME = "sulbiate"
 
 # BOUNDING BOX:
 # by now is mostly a fallback method, if the API fails to download the city polygon using CITY_NAME
 # A good tool to find them is: bboxfinder.com
 # # entire city:
 BOUNDING_BOX = (
-    -25.6450101000000004,  # SOUTHERNMOST LATITUDE
-    -49.3891399999999976,  # WESTERNMOST  LONGITUDE
-    -25.3467008999999983,  # NORTHERNMOST LATITUDE
-    -49.1843181999999999,  # EASTERNMOST  LONGITUDE
+    45.6211220,  # SOUTHERNMOST LATITUDE
+    9.3979013,   # WESTERNMOST LONGITUDE
+    45.6536688,  # NORTHERNMOST LATITUDE
+    9.4519522,   # EASTERNMOST LONGITUDE
 )
 
+# Exact municipal boundary, verified in Nominatim (2026-11-10).
+# https://www.openstreetmap.org/relation/45561
+OSM_RELATION_ID = 45561
+
 # Set a midpoint for the map AND A Z LEVEL FOR THE INITIAL ZOOM:
-MID_LAT = -25.46075
-MID_LGT = -49.26135
-INITIAL_Z_LEVEL = 19
+MID_LAT = 45.6339993
+MID_LGT = 9.4206842
+INITIAL_Z_LEVEL = 14
 
 # MIN AND MAX ZOOM LEVELS FOR TILE GENERATION:
 # (since there's the 100MB file size limit, for big datasets might be better to stay at 19 or even 18)
