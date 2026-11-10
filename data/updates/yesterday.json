@@ -1,0 +1,28 @@
+[
+    {
+        "id": 191674927,
+        "user": "MountPelion",
+        "uid": 23639088,
+        "comment": "Added oneway tag near Rodovia Henrique Herwig #adt",
+        "created_at": "2026-11-09T01:51:28Z",
+        "changeset_changes_count": 2,
+        "oswm_changes_count": 2,
+        "changes_count": 2,
+        "additions": 0,
+        "modifications": 2,
+        "deletions": 0
+    },
+    {
+        "id": 191690347,
+        "user": "maps11",
+        "uid": 4043656,
+        "comment": "Actualizar",
+        "created_at": "2026-11-09T11:17:34Z",
+        "changeset_changes_count": 1,
+        "oswm_changes_count": 1,
+        "changes_count": 1,
+        "additions": 0,
+        "modifications": 1,
+        "deletions": 0
+    }
+]

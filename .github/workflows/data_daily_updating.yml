@@ -1,0 +1,36 @@
+name: data_daily_updating
+
+on:
+  # Merging runtime repairs triggers a complete canary rebuild.
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/data_daily_updating.yml"
+  schedule:
+    - cron: "30 7 * * *"
+  workflow_dispatch:
+    inputs:
+      force_regeneration:
+        description: Rebuild the complete derived output set
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: oswm-node-writer-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  data_daily_updating:
+    permissions:
+      contents: write
+      actions: write
+    uses: kauevestena/oswm_codebase/.github/workflows/node_build.yml@main
+    with:
+      mode: daily
+      core_ref: main
+      force_regeneration: ${{ github.event_name == 'push' || inputs.force_regeneration || false }}

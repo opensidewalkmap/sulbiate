@@ -1,0 +1,22 @@
+name: customizable
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: oswm-node-writer-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  custom:
+    permissions:
+      contents: write
+      actions: write
+    uses: kauevestena/oswm_codebase/.github/workflows/node_build.yml@main
+    with:
+      mode: custom
+      core_ref: main
