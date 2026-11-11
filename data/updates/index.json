@@ -2,9 +2,12 @@
     "folder": "data/updates",
     "files": [
         "acquisition.json",
+        "changeset_cache.json",
         "pipeline_decision.json",
         "registry.json",
-        "watcher_decision.json"
+        "watcher_decision.json",
+        "watcher_history.json",
+        "yesterday.json"
     ],
     "subfolders": [
         "versioning"

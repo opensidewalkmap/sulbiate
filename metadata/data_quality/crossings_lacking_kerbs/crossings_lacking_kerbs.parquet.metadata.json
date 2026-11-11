@@ -70,14 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/sulbiate/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-11-10T20:26:44+00:00",
+    "updated": "2026-11-11T17:03:04+00:00",
     "node_registry": {
       "Data Fetching": "2026-11-10T20:24:32Z",
       "Versioning Data": "2026-11-10T20:24:47Z",
-      "Data Pre-Processing": "2026-11-10T20:24:49Z",
-      "Data Quality Tool": "2026-11-10T20:25:14Z",
-      "Completeness Analysis": "2026-11-10T20:26:35Z",
-      "Statistical Charts": "2026-11-10T20:26:44Z"
+      "Data Pre-Processing": "2026-11-11T17:01:08Z",
+      "Data Quality Tool": "2026-11-11T17:01:36Z",
+      "Completeness Analysis": "2026-11-11T17:02:54Z",
+      "Statistical Charts": "2026-11-11T17:03:04Z",
+      "OSWM Codebase Revision": "4411c46c116da69d2ecfce8b3d79b9844eef2f5d",
+      "Pipeline Success": "2026-11-10T20:28:12Z"
     }
   },
   "lineage": {
@@ -100,11 +102,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-10T20:26:44+00:00",
+    "generated_at": "2026-11-11T17:03:04+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "4411c46c116da69d2ecfce8b3d79b9844eef2f5d",
-      "commit_date": "2026-11-10T17:20:07-03:00"
+      "commit": "6f811852641f5dfab29d522535556999c683d8eb",
+      "commit_date": "2026-11-10T21:33:14-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -115,10 +117,10 @@
     "download_url": "https://opensidewalkmap.github.io/sulbiate/data/data_quality/crossings_lacking_kerbs/crossings_lacking_kerbs.parquet",
     "media_type": "application/vnd.apache.parquet",
     "format": "GeoParquet",
-    "byte_size": 18234,
+    "byte_size": 18233,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "7c3af1f8d3b32a9f8808a78fd5f7a15b1a73bca66274a9fccbb6016dee3feaae"
+      "value": "140fbc76dcb7792d1252c7b68bd8efb43f0dc121cbfb6202499abdc92d3e01d1"
     }
   },
   "links": [

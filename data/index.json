@@ -9,6 +9,7 @@
             "description": "Polygon boundary and metadata about the study area.",
             "path": "data/boundaries",
             "files": [
+                "index.json",
                 "infos.json",
                 "metadata.json",
                 "polygon.geojson",
@@ -37,6 +38,7 @@
             "path": "data/raw",
             "files": [
                 "crossings.parquet",
+                "index.json",
                 "kerbs.parquet",
                 "other_footways.parquet",
                 "sidewalks.parquet"
@@ -63,6 +65,7 @@
             "files": [
                 "dark.pmtiles",
                 "generation_report.json",
+                "index.json",
                 "light.pmtiles"
             ]
         },
@@ -71,14 +74,19 @@
             "path": "data/updates",
             "files": [
                 "acquisition.json",
+                "changeset_cache.json",
                 "index.html",
+                "index.json",
                 "pipeline_decision.json",
                 "registry.json",
                 "versioning/crossings_versioning.json",
+                "versioning/index.json",
                 "versioning/kerbs_versioning.json",
                 "versioning/other_footways_versioning.json",
                 "versioning/sidewalks_versioning.json",
-                "watcher_decision.json"
+                "watcher_decision.json",
+                "watcher_history.json",
+                "yesterday.json"
             ]
         },
         "vrts": {

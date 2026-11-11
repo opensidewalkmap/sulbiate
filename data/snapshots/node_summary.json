@@ -1,7 +1,7 @@
 {
     "schema_version": 1,
     "node_name": "Sulbiate, Italy",
-    "generated_at": "2026-11-10T20:25:09.390970+00:00",
+    "generated_at": "2026-11-11T17:01:31.386588+00:00",
     "themes": {
         "footway_categories": {
             "kind": "categorical",
@@ -381,10 +381,10 @@
             "unknown": 0,
             "unknownPercent": 0.0,
             "invalid": 0,
-            "min": 0.112252,
-            "max": 9.752225,
-            "mean": 5.295292,
-            "median": 5.817933,
+            "min": 0.11499,
+            "max": 9.754962,
+            "mean": 5.29803,
+            "median": 5.820671,
             "bins": [
                 {
                     "label": "0–<2",

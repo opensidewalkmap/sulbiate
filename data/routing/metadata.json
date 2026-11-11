@@ -28,7 +28,7 @@
     ],
     "schema_version": 2,
     "segment_count": 1638,
-    "sha256": "e60bd04d13fc0151a60a8b269fb220866fdfc4aef7c1ea7b08d66c12755c8deb",
+    "sha256": "006d4eaa4daeba8ed45cccfa1708ce9071ad22e9cbba7d0f6167ea5b980990bd",
     "spatial_index": "uniform_grid",
     "topology_tolerance": 1e-05
   },
@@ -40,20 +40,20 @@
   },
   "elevation_provider_fingerprint": "a4a4bc7ab35d623e",
   "feature_count": 262,
-  "generated_at": "2026-11-10T20:26:48.961710+00:00",
+  "generated_at": "2026-11-11T17:03:06.885814+00:00",
   "profile_audit": {
     "blind": {
       "grade_bands": {
-        "0": 1,
-        "1-19": 0,
+        "0": 0,
+        "1-19": 1,
         "20-39": 65,
         "40-59": 195,
         "60-79": 1,
         "80-100": 0
       },
       "maximum_grade": 60,
-      "mean_grade": 43.86,
-      "minimum_grade": 0,
+      "mean_grade": 43.92,
+      "minimum_grade": 16,
       "most_common_limiting_factors": {
         "incline": 2,
         "smoothness": 6,
@@ -63,16 +63,16 @@
     },
     "elderly": {
       "grade_bands": {
-        "0": 3,
-        "1-19": 7,
+        "0": 0,
+        "1-19": 10,
         "20-39": 27,
         "40-59": 224,
         "60-79": 1,
         "80-100": 0
       },
       "maximum_grade": 66,
-      "mean_grade": 44.05,
-      "minimum_grade": 0,
+      "mean_grade": 44.24,
+      "minimum_grade": 12,
       "most_common_limiting_factors": {
         "crossing": 29,
         "incline": 9,
@@ -84,15 +84,15 @@
     },
     "wheelchair": {
       "grade_bands": {
-        "0": 10,
-        "1-19": 0,
+        "0": 7,
+        "1-19": 3,
         "20-39": 51,
         "40-59": 200,
         "60-79": 1,
         "80-100": 0
       },
       "maximum_grade": 61,
-      "mean_grade": 39.9,
+      "mean_grade": 40.1,
       "minimum_grade": 0,
       "most_common_limiting_factors": {
         "barrier": 6,
@@ -105,8 +105,8 @@
       }
     }
   },
-  "ruleset_hash": "90797572d833bc88",
-  "ruleset_version": "1.1.0",
+  "ruleset_hash": "7ae40754cf77b3e2",
+  "ruleset_version": "1.2.0",
   "schema_version": 1,
   "slope_source_counts": {
     "copernicus_glo30": 262

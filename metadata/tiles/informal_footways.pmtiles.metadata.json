@@ -70,14 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/sulbiate/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-11-10T20:26:44+00:00",
+    "updated": "2026-11-11T17:03:04+00:00",
     "node_registry": {
       "Data Fetching": "2026-11-10T20:24:32Z",
       "Versioning Data": "2026-11-10T20:24:47Z",
-      "Data Pre-Processing": "2026-11-10T20:24:49Z",
-      "Data Quality Tool": "2026-11-10T20:25:14Z",
-      "Completeness Analysis": "2026-11-10T20:26:35Z",
-      "Statistical Charts": "2026-11-10T20:26:44Z"
+      "Data Pre-Processing": "2026-11-11T17:01:08Z",
+      "Data Quality Tool": "2026-11-11T17:01:36Z",
+      "Completeness Analysis": "2026-11-11T17:02:54Z",
+      "Statistical Charts": "2026-11-11T17:03:04Z",
+      "OSWM Codebase Revision": "4411c46c116da69d2ecfce8b3d79b9844eef2f5d",
+      "Pipeline Success": "2026-11-10T20:28:12Z"
     }
   },
   "lineage": {
@@ -98,11 +100,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-10T20:26:44+00:00",
+    "generated_at": "2026-11-11T17:03:04+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "4411c46c116da69d2ecfce8b3d79b9844eef2f5d",
-      "commit_date": "2026-11-10T17:20:07-03:00"
+      "commit": "6f811852641f5dfab29d522535556999c683d8eb",
+      "commit_date": "2026-11-10T21:33:14-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -113,10 +115,10 @@
     "download_url": "https://opensidewalkmap.github.io/sulbiate/data/tiles/informal_footways.pmtiles",
     "media_type": "application/vnd.pmtiles",
     "format": "PMTiles",
-    "byte_size": 11658,
+    "byte_size": 11607,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "037f071b7002605c6195b4fb62f557c30ac9bf455bf9c99f76d2e659d8ee06a2"
+      "value": "077f504ffad3b57d28bfc55b396016e77015287b55453dcedf0ace418b3e585c"
     }
   },
   "links": [

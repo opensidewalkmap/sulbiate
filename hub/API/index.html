@@ -1645,6 +1645,23 @@ print(data)</pre>
   },
   {
     "category": "Data Aging & Versioning",
+    "path": "data/updates/changeset_cache.json",
+    "format": "JSON",
+    "description": "Cached metadata for OSM changesets (user, comment, created_at, closed_at) to avoid redundant OSM API hits.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "map_data",
+    "metadata_path": "metadata/updates/changeset_cache.json.metadata.json"
+  },
+  {
+    "category": "Data Aging & Versioning",
     "path": "data/updates/pipeline_decision.json",
     "format": "JSON",
     "description": "Asset file: pipeline_decision.json",
@@ -1761,6 +1778,40 @@ print(data)</pre>
     },
     "deliverable": "map_data",
     "metadata_path": "metadata/updates/watcher_decision.json.metadata.json"
+  },
+  {
+    "category": "Data Aging & Versioning",
+    "path": "data/updates/watcher_history.json",
+    "format": "JSON",
+    "description": "Historical log of daily OSM contribution counts (additions, modifications, deletions) for each layer over the last 120 days.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "map_data",
+    "metadata_path": "metadata/updates/watcher_history.json.metadata.json"
+  },
+  {
+    "category": "Data Aging & Versioning",
+    "path": "data/updates/yesterday.json",
+    "format": "JSON",
+    "description": "List of OSM changesets touching OSWM interest features that occurred yesterday.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "map_data",
+    "metadata_path": "metadata/updates/yesterday.json.metadata.json"
   },
   {
     "category": "Data Quality Metadata",
@@ -5491,6 +5542,23 @@ print(data)</pre>
   },
   {
     "category": "Updates Metadata",
+    "path": "metadata/updates/changeset_cache.json.metadata.json",
+    "format": "JSON",
+    "description": "Refresh status, OSM changeset monitoring, and feature-version history. This record describes the JSON distribution at data/updates/changeset_cache.json.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Updates Metadata",
     "path": "metadata/updates/index.html.metadata.json",
     "format": "JSON",
     "description": "Refresh status, OSM changeset monitoring, and feature-version history. This record describes the HTML distribution at data/updates/index.html.",
@@ -5613,6 +5681,40 @@ print(data)</pre>
     "path": "metadata/updates/watcher_decision.json.metadata.json",
     "format": "JSON",
     "description": "Refresh status, OSM changeset monitoring, and feature-version history. This record describes the JSON distribution at data/updates/watcher_decision.json.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Updates Metadata",
+    "path": "metadata/updates/watcher_history.json.metadata.json",
+    "format": "JSON",
+    "description": "Refresh status, OSM changeset monitoring, and feature-version history. This record describes the JSON distribution at data/updates/watcher_history.json.",
+    "capabilities": {
+      "action": "preview-json",
+      "action_label": "Preview JSON",
+      "snippets": [
+        "javascript",
+        "python",
+        "curl"
+      ]
+    },
+    "deliverable": "metadata",
+    "metadata_path": null
+  },
+  {
+    "category": "Updates Metadata",
+    "path": "metadata/updates/yesterday.json.metadata.json",
+    "format": "JSON",
+    "description": "Refresh status, OSM changeset monitoring, and feature-version history. This record describes the JSON distribution at data/updates/yesterday.json.",
     "capabilities": {
       "action": "preview-json",
       "action_label": "Preview JSON",

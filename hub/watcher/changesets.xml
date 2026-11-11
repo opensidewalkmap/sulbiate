@@ -4,7 +4,39 @@
     <title>OSWM Watcher Changeset Activity - Sulbiate, Italy</title>
     <link>https://opensidewalkmap.github.io/sulbiate/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Sulbiate, Italy.</description>
-    <lastBuildDate>Tue, 10 Nov 2026 20:28:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 17:04:36 GMT</lastBuildDate>
+    <item>
+        <title>[Activity] OSM Changeset 191746308 by Yakartographier (0 additions, 2 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191746308</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191746308&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Yakartographier&quot;&gt;Yakartographier&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; maj&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191746308&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191746308&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Nov 2026 14:28:30 GMT</pubDate>
+        <guid isPermaLink="false">activity_191746308</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 191761393 by Dom61 (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/191761393</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 191761393&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Dom61&quot;&gt;Dom61&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Building geometry rectified&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/191761393&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/191761393&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Nov 2026 20:45:30 GMT</pubDate>
+        <guid isPermaLink="false">activity_191761393</guid>
+    </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 180970516 by unfoxo (2 deletions)</title>
         <link>https://www.openstreetmap.org/changeset/180970516</link>

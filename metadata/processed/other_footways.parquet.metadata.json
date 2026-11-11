@@ -70,14 +70,16 @@
     "geometry": "https://opensidewalkmap.github.io/sulbiate/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-11-10T20:26:44+00:00",
+    "updated": "2026-11-11T17:03:04+00:00",
     "node_registry": {
       "Data Fetching": "2026-11-10T20:24:32Z",
       "Versioning Data": "2026-11-10T20:24:47Z",
-      "Data Pre-Processing": "2026-11-10T20:24:49Z",
-      "Data Quality Tool": "2026-11-10T20:25:14Z",
-      "Completeness Analysis": "2026-11-10T20:26:35Z",
-      "Statistical Charts": "2026-11-10T20:26:44Z"
+      "Data Pre-Processing": "2026-11-11T17:01:08Z",
+      "Data Quality Tool": "2026-11-11T17:01:36Z",
+      "Completeness Analysis": "2026-11-11T17:02:54Z",
+      "Statistical Charts": "2026-11-11T17:03:04Z",
+      "OSWM Codebase Revision": "4411c46c116da69d2ecfce8b3d79b9844eef2f5d",
+      "Pipeline Success": "2026-11-10T20:28:12Z"
     }
   },
   "lineage": {
@@ -99,11 +101,11 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-10T20:26:44+00:00",
+    "generated_at": "2026-11-11T17:03:04+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
-      "commit": "4411c46c116da69d2ecfce8b3d79b9844eef2f5d",
-      "commit_date": "2026-11-10T17:20:07-03:00"
+      "commit": "6f811852641f5dfab29d522535556999c683d8eb",
+      "commit_date": "2026-11-10T21:33:14-03:00"
     },
     "source_root": "data",
     "deterministic": true
@@ -114,10 +116,10 @@
     "download_url": "https://opensidewalkmap.github.io/sulbiate/data/processed/other_footways.parquet",
     "media_type": "application/vnd.apache.parquet",
     "format": "GeoParquet",
-    "byte_size": 41936,
+    "byte_size": 41938,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "c7d945c5d7794dd87846774fad9a711b45d6a4fa2509fc67eeeaf7f0900b7c9c"
+      "value": "f94f4bc1ebf995f868d20e721111417fb05d0962b9760e17bcff4ae1293ce88a"
     }
   },
   "links": [
