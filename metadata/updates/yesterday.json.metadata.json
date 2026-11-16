@@ -82,10 +82,10 @@
     "download_url": "https://opensidewalkmap.github.io/sulbiate/data/updates/yesterday.json",
     "media_type": "application/json",
     "format": "JSON",
-    "byte_size": 745,
+    "byte_size": 2,
     "checksum": {
       "algorithm": "SHA-256",
-      "value": "7eadbd2e7f17af8ec9d2add656c286c0601c3c7e1589b5a7746b8e79f927ef6d"
+      "value": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
     }
   },
   "links": [

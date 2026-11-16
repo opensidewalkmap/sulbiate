@@ -153,7 +153,7 @@
       "byte_size": 353,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "9659ceaf89bd62bd19b3667d0499340937507e0feea43cd6fbe2c7cbb0827c0e"
+        "value": "1fd1a69f1cf1cf3a18491a12f190c4b347049e604c929a24674bc75a8a1ab553"
       }
     },
     {
@@ -177,7 +177,7 @@
       "byte_size": 231,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "2deabc1399af66b68518b80a91ee08a6569395786f3d30f1bf6f65415ea066f0"
+        "value": "f2fa0e805f029306b7bccdb5d5155c9dc6a8eadbb7d385a2f19fa34fabad32c0"
       }
     },
     {
@@ -189,7 +189,7 @@
       "byte_size": 93321,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "8a37db04ab5eb1dc6e5be75e00d561e9466cc23c2263ddd68c688c8ffd2966cc"
+        "value": "c985ca65b9c52f65fb636454f390962d0b2b75ea054872eca51a4fac631ee762"
       }
     },
     {
@@ -198,10 +198,10 @@
       "metadata": "https://opensidewalkmap.github.io/sulbiate/metadata/updates/yesterday.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 745,
+      "byte_size": 2,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "7eadbd2e7f17af8ec9d2add656c286c0601c3c7e1589b5a7746b8e79f927ef6d"
+        "value": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
       }
     }
   ],
