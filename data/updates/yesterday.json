@@ -1,15 +1,1 @@
-[
-    {
-        "id": 192096861,
-        "user": "woodpeck_repair",
-        "uid": 145231,
-        "comment": "revert der (noch nicht revertierten) Änderungen von Kerflufflex, s. https://community.openstreetmap.org/t/merkwurdige-edits/150146",
-        "created_at": "2026-11-17T20:26:26Z",
-        "changeset_changes_count": 589,
-        "oswm_changes_count": 25,
-        "changes_count": 589,
-        "additions": 0,
-        "modifications": 25,
-        "deletions": 0
-    }
-]
+[]

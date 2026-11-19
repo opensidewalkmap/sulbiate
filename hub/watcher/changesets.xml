@@ -4,23 +4,7 @@
     <title>OSWM Watcher Changeset Activity - Sulbiate, Italy</title>
     <link>https://opensidewalkmap.github.io/sulbiate/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Sulbiate, Italy.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 16:39:16 GMT</lastBuildDate>
-    <item>
-        <title>[Activity] OSM Changeset 192096861 by woodpeck_repair (0 additions, 25 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/192096861</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192096861&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/woodpeck_repair&quot;&gt;woodpeck_repair&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; revert der (noch nicht revertierten) Änderungen von Kerflufflex, s. https://community.openstreetmap.org/t/merkwurdige-edits/150146&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
-    &lt;li&gt;Modifications (tags/geom): 25&lt;/li&gt;
-    &lt;li&gt;Deletions: 0&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192096861&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192096861&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
-</description>
-        <pubDate>Tue, 17 Nov 2026 20:26:26 GMT</pubDate>
-        <guid isPermaLink="false">activity_192096861</guid>
-    </item>
+    <lastBuildDate>Thu, 19 Nov 2026 16:41:57 GMT</lastBuildDate>
     <item>
         <title>[Alert] High Deletion OSM Changeset 180970516 by unfoxo (2 deletions)</title>
         <link>https://www.openstreetmap.org/changeset/180970516</link>
