@@ -4,7 +4,23 @@
     <title>OSWM Watcher Changeset Activity - Sulbiate, Italy</title>
     <link>https://opensidewalkmap.github.io/sulbiate/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Sulbiate, Italy.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 15:31:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 19:24:53 GMT</lastBuildDate>
+    <item>
+        <title>[Activity] OSM Changeset 192299845 by Hugo Bayles (0 additions, 2 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/192299845</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192299845&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Hugo Bayles&quot;&gt;Hugo Bayles&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify road surfaces&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192299845&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192299845&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Nov 2026 09:26:59 GMT</pubDate>
+        <guid isPermaLink="false">activity_192299845</guid>
+    </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 180970516 by unfoxo (2 deletions)</title>
         <link>https://www.openstreetmap.org/changeset/180970516</link>
