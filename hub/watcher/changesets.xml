@@ -4,22 +4,70 @@
     <title>OSWM Watcher Changeset Activity - Sulbiate, Italy</title>
     <link>https://opensidewalkmap.github.io/sulbiate/hub/watcher/index.html</link>
     <description>OSM changeset activity monitoring and deletion watch for OpenSidewalkMap interest features in Sulbiate, Italy.</description>
-    <lastBuildDate>Mon, 23 Nov 2026 19:24:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 19:01:36 GMT</lastBuildDate>
     <item>
-        <title>[Activity] OSM Changeset 192299845 by Hugo Bayles (0 additions, 2 modifications, 0 deletions)</title>
-        <link>https://www.openstreetmap.org/changeset/192299845</link>
-        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192299845&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Hugo Bayles&quot;&gt;Hugo Bayles&lt;/a&gt;&lt;/p&gt;
+        <title>[Activity] OSM Changeset 192362379 by ArtAttackArt (0 additions, 7 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/192362379</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192362379&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/ArtAttackArt&quot;&gt;ArtAttackArt&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Specify road surfaces&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 7&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192362379&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192362379&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2026 15:59:23 GMT</pubDate>
+        <guid isPermaLink="false">activity_192362379</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 192358862 by sarce (4 additions, 2 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/192358862</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192358862&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/sarce&quot;&gt;sarce&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Rajout&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 4&lt;/li&gt;
     &lt;li&gt;Modifications (tags/geom): 2&lt;/li&gt;
     &lt;li&gt;Deletions: 0&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192299845&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192299845&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192358862&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192358862&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
 </description>
-        <pubDate>Sun, 22 Nov 2026 09:26:59 GMT</pubDate>
-        <guid isPermaLink="false">activity_192299845</guid>
+        <pubDate>Mon, 23 Nov 2026 14:43:27 GMT</pubDate>
+        <guid isPermaLink="false">activity_192358862</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 192366158 by Komet (1 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/192366158</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192366158&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/Komet&quot;&gt;Komet&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Lücke in Wanderrelation verbunden und Auswuchs entfernt&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 1&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192366158&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192366158&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2026 17:24:06 GMT</pubDate>
+        <guid isPermaLink="false">activity_192366158</guid>
+    </item>
+    <item>
+        <title>[Activity] OSM Changeset 192343158 by adamos (0 additions, 1 modifications, 0 deletions)</title>
+        <link>https://www.openstreetmap.org/changeset/192343158</link>
+        <description>&lt;p&gt;&lt;strong&gt;OSM Changeset 192343158&lt;/strong&gt; by &lt;a href=&quot;https://www.openstreetmap.org/user/adamos&quot;&gt;adamos&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Comment:&lt;/strong&gt; Flixbus daily maintenance routine, relation fix&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edits to OSWM features:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;Additions (creations): 0&lt;/li&gt;
+    &lt;li&gt;Modifications (tags/geom): 1&lt;/li&gt;
+    &lt;li&gt;Deletions: 0&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Links:&lt;/strong&gt; &lt;a href=&quot;https://www.openstreetmap.org/changeset/192343158&quot;&gt;OSM&lt;/a&gt; | &lt;a href=&quot;https://osmcha.org/changesets/192343158&quot;&gt;OSMCha&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Nov 2026 08:54:28 GMT</pubDate>
+        <guid isPermaLink="false">activity_192343158</guid>
     </item>
     <item>
         <title>[Alert] High Deletion OSM Changeset 180970516 by unfoxo (2 deletions)</title>
