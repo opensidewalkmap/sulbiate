@@ -1,6 +1,6 @@
 {
   "node_name": "Sulbiate, Italy",
-  "generated_at": "2026-11-24T19:03:33Z",
+  "generated_at": "2026-11-25T18:06:47Z",
   "bbox": [
     45.621122,
     9.3979013,
@@ -28,9 +28,9 @@
       }
     },
     "Pic4Review": {
-      "status": "ok",
+      "status": "offline",
       "instances": {
-        "https://pic4review.pavie.info/#/": "ok"
+        "https://pic4review.pavie.info/#/": "offline"
       }
     },
     "MapRoulette": {

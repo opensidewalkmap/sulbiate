@@ -65,7 +65,7 @@
     "geometry": "https://opensidewalkmap.github.io/sulbiate/data/boundaries/polygon.geojson"
   },
   "temporal": {
-    "updated": "2026-11-23T19:26:27+00:00",
+    "updated": "2026-11-24T19:03:38+00:00",
     "node_registry": {
       "Data Fetching": "2026-11-10T20:24:32Z",
       "Versioning Data": "2026-11-22T16:11:56Z",
@@ -74,7 +74,7 @@
       "Completeness Analysis": "2026-11-11T17:02:54Z",
       "Statistical Charts": "2026-11-22T16:12:03Z",
       "OSWM Codebase Revision": "6f811852641f5dfab29d522535556999c683d8eb",
-      "Pipeline Success": "2026-11-23T19:26:27Z",
+      "Pipeline Success": "2026-11-24T19:03:38Z",
       "Wiki check for keys": "2026-11-22T16:12:28Z"
     }
   },
@@ -98,7 +98,7 @@
   "metadata_generation": {
     "generator": "oswm_codebase.metadata.metadata_generation",
     "profile_version": "1.0.0",
-    "generated_at": "2026-11-23T19:26:27+00:00",
+    "generated_at": "2026-11-24T19:03:38+00:00",
     "code": {
       "repository": "https://github.com/kauevestena/oswm_codebase",
       "commit": "6f811852641f5dfab29d522535556999c683d8eb",
@@ -153,7 +153,7 @@
       "byte_size": 353,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "48a2838a65eb9af1953d34b43c769bcbf3ff3685dfaf5ded3cf360b0f38830c5"
+        "value": "239bb0897be6e83abeaa78e996bf2ee90f9f08d93c26cdd79c179fd3f6eec75f"
       }
     },
     {
@@ -165,7 +165,7 @@
       "byte_size": 471,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "dfcce317aa5cb876cba55fd55422be5e5ec33152478c68766c8c927756daf51b"
+        "value": "6a74823b1fa9821bf865e533a37b5f74ad7183b1796bb43562319fd204321fbb"
       }
     },
     {
@@ -177,7 +177,7 @@
       "byte_size": 231,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "c07d2cfc2a652817de993b91ec6f8601915df020f32a753e400d0a9d5d08c71c"
+        "value": "3e007cb9734d33f2135df3e734bb89a83106360896c1dc4c4a8e076716cf43dd"
       }
     },
     {
@@ -189,7 +189,7 @@
       "byte_size": 93321,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "b43e699687925df1f7c172c801a9a03ab105d943eef30908089fcb8502d8dcc0"
+        "value": "cecb99f0c45f5a2e613d1d97568b4f95c42cfc55ec071942bc6418d7653b3161"
       }
     },
     {
@@ -198,10 +198,10 @@
       "metadata": "https://opensidewalkmap.github.io/sulbiate/metadata/updates/yesterday.json.metadata.json",
       "media_type": "application/json",
       "format": "JSON",
-      "byte_size": 1465,
+      "byte_size": 1134,
       "checksum": {
         "algorithm": "SHA-256",
-        "value": "bbed47d14ea20ec998d529d74b98163465a076092cccbf15fd3573d6fd28752a"
+        "value": "a6340ebc5c1b6601fd29ccae1fd16d7a50ce9de8aaf5bcd0b1f41d6529abff7b"
       }
     }
   ],
